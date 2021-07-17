@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/testApp/static/css/main.b2466d9d.chunk.css",
+    "main.js": "/testApp/static/js/main.5f961b8f.chunk.js",
+    "main.js.map": "/testApp/static/js/main.5f961b8f.chunk.js.map",
+    "runtime-main.js": "/testApp/static/js/runtime-main.e4abb93d.js",
+    "runtime-main.js.map": "/testApp/static/js/runtime-main.e4abb93d.js.map",
+    "static/js/2.6c0b2d6b.chunk.js": "/testApp/static/js/2.6c0b2d6b.chunk.js",
+    "static/js/2.6c0b2d6b.chunk.js.map": "/testApp/static/js/2.6c0b2d6b.chunk.js.map",
+    "static/js/3.6d62a6bb.chunk.js": "/testApp/static/js/3.6d62a6bb.chunk.js",
+    "static/js/3.6d62a6bb.chunk.js.map": "/testApp/static/js/3.6d62a6bb.chunk.js.map",
+    "index.html": "/testApp/index.html",
+    "static/css/main.b2466d9d.chunk.css.map": "/testApp/static/css/main.b2466d9d.chunk.css.map",
+    "static/js/2.6c0b2d6b.chunk.js.LICENSE.txt": "/testApp/static/js/2.6c0b2d6b.chunk.js.LICENSE.txt",
+    "static/media/1.1c5a5d8c.jpg": "/testApp/static/media/1.1c5a5d8c.jpg",
+    "static/media/logo.8d1fcfae.png": "/testApp/static/media/logo.8d1fcfae.png",
+    "static/media/partnership.9c5cf77c.svg": "/testApp/static/media/partnership.9c5cf77c.svg",
+    "static/media/performance.1393778d.svg": "/testApp/static/media/performance.1393778d.svg",
+    "static/media/service-thumb.92388085.png": "/testApp/static/media/service-thumb.92388085.png",
+    "static/media/shape-left.bde24763.png": "/testApp/static/media/shape-left.bde24763.png",
+    "static/media/shape-pattern1.2c8105c2.png": "/testApp/static/media/shape-pattern1.2c8105c2.png",
+    "static/media/shape-pattern2.0f7d4f39.png": "/testApp/static/media/shape-pattern2.0f7d4f39.png",
+    "static/media/shape-right.c2344070.png": "/testApp/static/media/shape-right.c2344070.png",
+    "static/media/subscription.56e15e81.svg": "/testApp/static/media/subscription.56e15e81.svg",
+    "static/media/support.3f613446.svg": "/testApp/static/media/support.3f613446.svg",
+    "static/media/tajmahal.78b83757.jpg": "/testApp/static/media/tajmahal.78b83757.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e4abb93d.js",
+    "static/js/2.6c0b2d6b.chunk.js",
+    "static/css/main.b2466d9d.chunk.css",
+    "static/js/main.5f961b8f.chunk.js"
+  ]
+}
